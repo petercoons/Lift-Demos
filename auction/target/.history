@@ -1,0 +1,10 @@
+lifty create project-blank
+*lifty is org.lifty lifty 1.6.1
+reload
+update
+lifty create project-blank
+compile
+reload
+update
+compile
+jetty
