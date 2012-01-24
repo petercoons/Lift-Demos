@@ -1,14 +1,5 @@
-reload
-update
-git status
-git state
 lifty create project-blank
-idea
-sbtIdeaRepo
-clear
-cls
-idea
-reload
+refresh
 update
-quit
 idea
+quit
