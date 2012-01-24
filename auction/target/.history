@@ -7,3 +7,7 @@ idea
 sbtIdeaRepo
 clear
 cls
+idea
+reload
+update
+quit
