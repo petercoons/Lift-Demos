@@ -24,11 +24,11 @@
         <orderEntry type="module-library">
             <library>
               <CLASSES>
-                <root url="file://$MODULE_DIR$/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.7"></root>
+                <root url="file://$MODULE_DIR$/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.5"></root>
               </CLASSES>
               <JAVADOC></JAVADOC>
               <SOURCES></SOURCES>
-              <jarDirectory recursive="true" url="file://$MODULE_DIR$/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.7"></jarDirectory>
+              <jarDirectory recursive="true" url="file://$MODULE_DIR$/boot/scala-2.7.7/org.scala-tools.sbt/sbt/0.7.5"></jarDirectory>
             </library>
           </orderEntry><orderEntry type="module-library">
             <library>

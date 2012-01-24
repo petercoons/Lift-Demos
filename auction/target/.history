@@ -1,5 +1,5 @@
 lifty create project-blank
-refresh
+reload
 update
 idea
 quit
