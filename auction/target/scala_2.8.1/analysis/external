@@ -1,6 +1,0 @@
-#External Dependencies
-#Mon Jan 23 18:38:41 EST 2012
-/usr/lib/jvm/java-6-openjdk/jre/lib/rt.jar=src/main/scala/bootstrap/liftweb/Boot.scala
-/home/peter/lift/lib_managed/scala_2.8.1/compile/lift-util_2.8.1-2.3-RC3.jar=src/main/scala/bootstrap/liftweb/Boot.scala
-/home/peter/lift/project/boot/scala-2.8.1/lib/scala-library.jar=src/main/scala/bootstrap/liftweb/Boot.scala
-/home/peter/lift/lib_managed/scala_2.8.1/compile/lift-webkit_2.8.1-2.3-RC3.jar=src/main/scala/bootstrap/liftweb/Boot.scala

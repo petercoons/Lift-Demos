@@ -1,10 +1,9 @@
-lifty create project-blank
-*lifty is org.lifty lifty 1.6.1
 reload
 update
+git status
+git state
 lifty create project-blank
-compile
-reload
-update
-compile
-jetty
+idea
+sbtIdeaRepo
+clear
+cls
